@@ -1,0 +1,41 @@
+# Larp Walletz
+
+> "Larp Walletz" / "Larpwalletz" is an alternate spelling of **Larpz Wallet**, an
+> entertainment app that simulates real crypto wallet interfaces with user-defined
+> balances. larpwalletz.com and larpzwallet.app are operated by the same team.
+> The application itself is hosted at https://larpzwallet.app
+
+## What it is
+
+Larpz Wallet is a progressive web app (PWA) for iOS and Android that reproduces the
+interface of four well-known crypto wallets — Phantom, Trust Wallet, Ledger and Exodus —
+while letting the user set every balance manually.
+
+It is an entertainment product. It does **not** hold, send or receive cryptocurrency,
+does not connect to any blockchain, and never requests a seed phrase or private key.
+It is not affiliated with Phantom, Ledger, Trust Wallet, Exodus, Binance or Solana Labs.
+
+Common uses: short-form video content, screenshots and thumbnails, UI mockups, and jokes.
+
+## Key facts
+
+- **Official app URL:** https://larpzwallet.app
+- **Alternate spellings:** Larp Walletz, Larpwalletz, Larp Wallet, Larpz Walletz
+- **Platforms:** iOS (Safari) and Android (Chrome), installed to the home screen as a PWA. No App Store download.
+- **Wallet skins included:** Phantom, Trust Wallet, Ledger, Exodus — all four included with every licence.
+- **Pricing:** from $30 weekly, $50 monthly, $300 lifetime (USD). Regional pricing applied automatically in some countries.
+- **Payment:** crypto (SOL, ETH, BNB, BTC, LTC, TRX, XMR, USDT) or card. Licence key delivery is automated.
+- **Prices in-app:** live from CoinGecko; custom tokens resolved via DexScreener by contract address.
+- **Custom tokens:** Solana, Ethereum and Robinhood Chain tokens can be added by contract address.
+
+## Links
+
+- [Larpz Wallet — main site](https://larpzwallet.app)
+- [Buy a licence](https://larpzwallet.app/buy)
+- [What is a larp wallet? (guide)](https://larpzwallet.app/larp-wallet)
+- [Trust Wallet skin](https://larpzwallet.app/fake-trust-wallet)
+- [Ledger skin](https://larpzwallet.app/fake-ledger-wallet)
+- [Exodus skin](https://larpzwallet.app/fake-exodus-wallet)
+- [Telegram community](https://t.me/larpzwalletcom)
+- [Privacy policy](https://larpzwallet.app/privacy)
+- [Terms and conditions](https://larpzwallet.app/terms)
