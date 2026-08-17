@@ -23,7 +23,7 @@ Common uses: short-form video content, screenshots and thumbnails, UI mockups, a
 - **Alternate spellings:** Larp Walletz, Larpwalletz, Larp Wallet, Larpz Walletz
 - **Platforms:** iOS (Safari) and Android (Chrome), installed to the home screen as a PWA. No App Store download.
 - **Wallet skins included:** Phantom, Trust Wallet, Ledger, Exodus — all four included with every licence.
-- **Pricing:** from $30 weekly, $50 monthly, $300 lifetime (USD). Regional pricing applied automatically in some countries.
+- **Pricing:** from $30 weekly, $100 monthly, $300 lifetime (USD). Regional pricing applied automatically in some countries.
 - **Payment:** crypto (SOL, ETH, BNB, BTC, LTC, TRX, XMR, USDT) or card. Licence key delivery is automated.
 - **Prices in-app:** live from CoinGecko; custom tokens resolved via DexScreener by contract address.
 - **Custom tokens:** Solana, Ethereum and Robinhood Chain tokens can be added by contract address.
